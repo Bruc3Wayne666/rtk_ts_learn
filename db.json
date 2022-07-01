@@ -1,0 +1,63 @@
+{
+  "posts": [
+    {
+      "id": 3,
+      "title": "bebra-server",
+      "author": "typicode"
+    },
+    {
+      "id": 4,
+      "title": "",
+      "author": "typicode"
+    },
+    {
+      "id": 7,
+      "title": "jsdfsdcvd",
+      "author": "typicode"
+    },
+    {
+      "id": 8,
+      "title": "sdgvdf",
+      "author": "typicode"
+    },
+    {
+      "id": 10,
+      "title": "dfbfdbbbbbb",
+      "author": "typicode"
+    },
+    {
+      "title": "dthdthtyj",
+      "body": "dthdthtyj",
+      "id": 11
+    },
+    {
+      "title": "dtyjtyjdtyjytjtj",
+      "body": "dtyjtyjdtyjytjtj",
+      "id": 12
+    },
+    {
+      "title": "trshsrtsrth",
+      "body": "trshsrtsrth",
+      "id": 13
+    },
+    {
+      "title": "srthtrhrsh",
+      "body": "srthtrhrsh",
+      "id": 14
+    },
+    {
+      "title": "rtdfgt",
+      "body": "rtdfgt",
+      "id": 15
+    },
+    {
+      "title": "safcsadf",
+      "body": "safcsadf",
+      "id": 16
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
